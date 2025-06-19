@@ -29,12 +29,11 @@
   },
   "license": "See license in LICENSE.txt",
   "bugs": {
-    "url": "https://github.com/microsoft/vscode-wordcount/issues",
-    "email": "sean@contoso.com"
+    "url": "https://github.com/ZythicReal/zytheme/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/microsoft/vscode-wordcount.git"
+    "url": "https://github.com/ZythicReal/zytheme"
   },
-  "homepage": "https://github.com/microsoft/vscode-wordcount/blob/main/README.md"
+  "homepage": "https://github.com/ZythicReal/zytheme/blob/main/README.md"
 }
