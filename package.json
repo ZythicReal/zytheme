@@ -16,12 +16,12 @@
   "pricing": "Free",
   "activationEvents": ["onLanguage:markdown"],
   "engines": {
-    "vscode": "^1.0.0"
+    "vscode": "^1.8.0"
   },
   "main": "./out/extension",
   "scripts": {
-    "vscode:prepublish": "node ./node_modules/vscode/bin/compile",
-    "compile": "node ./node_modules/vscode/bin/compile -watch -p ./"
+    "vscode:prepublish": "",
+    "compile": ""
   },
   "devDependencies": {
     "@types/vscode": "^0.10.x",

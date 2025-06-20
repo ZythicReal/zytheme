@@ -1,1 +1,1 @@
-Hi and thank you for downloading my theme!! It's called Zytheme and its for people with owleyes like myself who want dark mode actualy good. This theme is dark blue with pastel text and cyan highlights. If you dont like it, that's okay!! Each to their own :)
+Hi and thank you for downloading (or at least looking at) my theme!! It's called Zytheme and its for people with owleyes like myself who want dark mode actualy good. This theme is dark blue with pastel text and cyan highlights. If you dont like it, that's okay!! Each to their own :)
